@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 Olá, me chamo Tulio, sou programador front-end e apaixonado por tecnologia e também pela natureza. :leaves:
 
